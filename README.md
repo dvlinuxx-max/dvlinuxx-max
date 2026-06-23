@@ -51,6 +51,7 @@ tooling. Arabic-first interfaces (RTL), clean and dependency-light code.
 
 | Project | What it is |
 | --- | --- |
+| [proxyscope](https://github.com/dvlinuxx-max/proxyscope) | Intercepting HTTP/HTTPS proxy with a web UI: history, TLS MITM, request inspector, repeater, intercept queue |
 | [vulnscope](https://github.com/dvlinuxx-max/vulnscope) | Web security scanner: crawler plus header/TLS/CORS/exposure/injection checks with scored HTML reports |
 | [tlsaudit](https://github.com/dvlinuxx-max/tlsaudit) | TLS configuration and certificate auditor |
 | [secheaders](https://github.com/dvlinuxx-max/secheaders) | HTTP security-header and TLS grader |
