@@ -1,9 +1,42 @@
+<div align="center">
+
 # Mohammed Asghar
+
+<a href="https://github.com/dvlinuxx-max">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Developer;Security+%26+OSINT+Tooling;Desktop+%2B+Web+%2B+CLI;Arabic-first+interfaces+(RTL)" alt="typing" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dvlinuxx-max&style=flat-square&color=38bdf8" alt="profile views" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+</div>
 
 Software developer. I build desktop apps, web apps, and security and OSINT
 tooling. Arabic-first interfaces (RTL), clean and dependency-light code.
 
-أبني تطبيقات سطح المكتب والويب وأدوات أمنية واستخباراتية مفتوحة المصدر.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dvlinuxx-max&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlinuxx-max&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dvlinuxx-max&hide_border=true&theme=tokyonight" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=dvlinuxx-max&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
 
 ## Applications
 
@@ -35,12 +68,7 @@ tooling. Arabic-first interfaces (RTL), clean and dependency-light code.
 | [userfind](https://github.com/dvlinuxx-max/userfind) | Username existence checker across public platforms |
 
 The security and OSINT tools are dependency-free Python CLIs that query public
-data sources, intended for authorized assessments and research.
-
-## Tech
-
-Python, TypeScript, React, Next.js, Tailwind CSS, SQLite, Flutter/Dart.
-Comfortable with REST APIs, the Anthropic (Claude) API, and Git.
+data sources or audit targets you are authorized to assess.
 
 ## Contact
 
