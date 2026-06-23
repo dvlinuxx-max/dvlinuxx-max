@@ -1,145 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Mohammed%20Asghar&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%7C%20OSINT&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0EA5E9,100:38BDF8&text=Mohammed%20Asghar&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Cybersecurity%20|%20OSINT&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Cybersecurity+Researcher;OSINT+Tool+Creator;Desktop+%7C+Web+%7C+Cloud;Building+Arabic+First+Software;Linux+Power+User"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Developer;Cybersecurity+Practitioner;OSINT+Tool+Developer;Desktop+Applications;Web+Applications;Arabic-First+Software+Solutions"/>
 
-<img src="https://komarev.com/ghpvc/?username=dvlinuxx-max&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dvlinuxx-max&style=for-the-badge&color=38BDF8" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## Profile
 
-```yaml
-Name: Mohammed Asghar
-Location: Iraq
-Role: Software Engineer
-Specialties:
-  - Full Stack Development
-  - Cyber Security
-  - OSINT
-  - Desktop Applications
-  - Linux Systems
+Software developer and cybersecurity practitioner from Iraq.
 
-Mission:
-  Building powerful Arabic-first software solutions.
-```
+I design and build desktop applications, web platforms, business-management systems, security tooling, and OSINT utilities. My work focuses on performance, simplicity, maintainability, and Arabic-first user experiences.
 
 ---
 
-# 🛠 Tech Arsenal
+## Technology Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,js,ts,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,github,vscode"/>
 
-</p>
+</div>
 
 ---
 
-# ✈️ Activity Radar
+## GitHub Statistics
 
-<p align="center">
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dvlinuxx-max&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlinuxx-max&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=dvlinuxx-max&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dvlinuxx-max&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlinuxx-max&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Statistics
+## Applications
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dvlinuxx-max&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlinuxx-max&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dvlinuxx-max&theme=tokyonight&hide_border=true"/>
-
-</p>
+| Project  | Description                                             | Stack                 |
+| -------- | ------------------------------------------------------- | --------------------- |
+| tijarati | Point-of-sale, inventory management and sales platform  | Python, SQLite        |
+| wasif    | Arabic AI-powered product description generator         | Next.js, Claude API   |
+| menyu    | QR-based restaurant and cafe menu platform              | Next.js, Tailwind CSS |
+| jwt-lens | Browser-based JWT decoder and HMAC verification utility | Next.js               |
 
 ---
 
-# 🛩 Air Fleet
+## Security Tooling
 
-| Aircraft      | Mission                        |
-| ------------- | ------------------------------ |
-| ✈️ VulnScope  | Security Assessment            |
-| 🛰 CertSpot   | Certificate Transparency Recon |
-| 🚁 DNSProbe   | DNS Investigation              |
-| 🛡 ProxyScope | HTTP/HTTPS Inspection          |
-| 🔍 UserFind   | Username Intelligence          |
-| ⚡ WebPrint    | Technology Fingerprinting      |
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+| Project    | Description                                                       |
+| ---------- | ----------------------------------------------------------------- |
+| proxyscope | Intercepting HTTP/HTTPS proxy with web-based analysis interface   |
+| vulnscope  | Security scanner with crawling, TLS, header and exposure analysis |
+| tlsaudit   | TLS configuration and certificate auditing utility                |
+| secheaders | HTTP security header and TLS assessment tool                      |
+| secretscan | Hardcoded secret detection utility                                |
+| passforge  | Password generation and strength auditing tool                    |
+| intguard   | File integrity monitoring using SHA-256 verification              |
 
 ---
 
-# 🌍 Featured Projects
+## OSINT & Reconnaissance
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏪 Tijarati
-
-POS & Inventory Management
-
-### 🍽 Menyu
-
-QR Restaurant Platform
-
-### 🤖 Wasif
-
-Arabic AI Product Writer
-
-</td>
-
-<td width="50%">
-
-### 🔐 ProxyScope
-
-HTTP Interception Platform
-
-### 🛡 VulnScope
-
-Security Scanner
-
-### 🌐 DomainTel
-
-Domain Intelligence Tool
-
-</td>
-</tr>
-</table>
+| Project   | Description                                      |
+| --------- | ------------------------------------------------ |
+| certspot  | Certificate Transparency reconnaissance          |
+| dnsprobe  | DNS-over-HTTPS enumeration and investigation     |
+| domaintel | Domain registration intelligence through RDAP    |
+| ipintel   | IP geolocation, ASN and reverse DNS intelligence |
+| webprint  | Website technology fingerprinting utility        |
+| userfind  | Username discovery across public platforms       |
 
 ---
 
-# 📡 Connect
+## Areas of Interest
 
-📧 [dvlinuxx@gmail.com](mailto:dvlinuxx@gmail.com)
+* Full-Stack Software Engineering
+* Cybersecurity
+* OSINT
+* Network Technologies
+* Linux Systems
+* Automation
+* Digital Forensics
+* Business Software Solutions
+* Arabic Software Localization
 
-💻 https://github.com/dvlinuxx-max
+---
+
+## Contribution Map
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## Contact
+
+Email: [dvlinuxx@gmail.com](mailto:dvlinuxx@gmail.com)
+
+GitHub: https://github.com/dvlinuxx-max
 
 ---
 
 <div align="center">
 
-### ⚡ "Code. Secure. Automate."
+Building software, security tools, and digital solutions that solve real-world problems.
 
 </div>
