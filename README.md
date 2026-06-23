@@ -51,6 +51,8 @@ tooling. Arabic-first interfaces (RTL), clean and dependency-light code.
 
 | Project | What it is |
 | --- | --- |
+| [vulnscope](https://github.com/dvlinuxx-max/vulnscope) | Web security scanner: crawler plus header/TLS/CORS/exposure/injection checks with scored HTML reports |
+| [tlsaudit](https://github.com/dvlinuxx-max/tlsaudit) | TLS configuration and certificate auditor |
 | [secheaders](https://github.com/dvlinuxx-max/secheaders) | HTTP security-header and TLS grader |
 | [secretscan](https://github.com/dvlinuxx-max/secretscan) | Find hardcoded secrets in a directory tree |
 | [passforge](https://github.com/dvlinuxx-max/passforge) | Password generator and strength auditor (HIBP) |
