@@ -1,78 +1,145 @@
 <div align="center">
 
-# Mohammed Asghar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Mohammed%20Asghar&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%7C%20OSINT&descAlignY=60"/>
 
-<a href="https://github.com/dvlinuxx-max">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Developer;Security+%26+OSINT+Tooling;Desktop+%2B+Web+%2B+CLI;Arabic-first+interfaces+(RTL)" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Cybersecurity+Researcher;OSINT+Tool+Creator;Desktop+%7C+Web+%7C+Cloud;Building+Arabic+First+Software;Linux+Power+User"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dvlinuxx-max&style=flat-square&color=38bdf8" alt="profile views" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=dvlinuxx-max&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
 
 </div>
 
-Software developer. I build desktop apps, web apps, and security and OSINT
-tooling. Arabic-first interfaces (RTL), clean and dependency-light code.
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Mohammed Asghar
+Location: Iraq
+Role: Software Engineer
+Specialties:
+  - Full Stack Development
+  - Cyber Security
+  - OSINT
+  - Desktop Applications
+  - Linux Systems
+
+Mission:
+  Building powerful Arabic-first software solutions.
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+# ✈️ Activity Radar
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlinuxx-max&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dvlinuxx-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlinuxx-max&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dvlinuxx-max&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🛩 Air Fleet
+
+| Aircraft      | Mission                        |
+| ------------- | ------------------------------ |
+| ✈️ VulnScope  | Security Assessment            |
+| 🛰 CertSpot   | Certificate Transparency Recon |
+| 🚁 DNSProbe   | DNS Investigation              |
+| 🛡 ProxyScope | HTTP/HTTPS Inspection          |
+| 🔍 UserFind   | Username Intelligence          |
+| ⚡ WebPrint    | Technology Fingerprinting      |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌍 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏪 Tijarati
+
+POS & Inventory Management
+
+### 🍽 Menyu
+
+QR Restaurant Platform
+
+### 🤖 Wasif
+
+Arabic AI Product Writer
+
+</td>
+
+<td width="50%">
+
+### 🔐 ProxyScope
+
+HTTP Interception Platform
+
+### 🛡 VulnScope
+
+Security Scanner
+
+### 🌐 DomainTel
+
+Domain Intelligence Tool
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📡 Connect
+
+📧 [dvlinuxx@gmail.com](mailto:dvlinuxx@gmail.com)
+
+💻 https://github.com/dvlinuxx-max
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dvlinuxx-max&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlinuxx-max&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dvlinuxx-max&hide_border=true&theme=tokyonight" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=dvlinuxx-max&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+### ⚡ "Code. Secure. Automate."
 
 </div>
-
-## Applications
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [tijarati](https://github.com/dvlinuxx-max/tijarati) | Point-of-sale, inventory and sales management for shops | Python, SQLite |
-| [wasif](https://github.com/dvlinuxx-max/wasif) | Arabic product-description generator (LLM-backed) | Next.js, Claude API |
-| [menyu](https://github.com/dvlinuxx-max/menyu) | Digital QR menu for restaurants and cafes | Next.js, Tailwind |
-| [jwt-lens](https://github.com/dvlinuxx-max/jwt-lens) | In-browser JWT decoder and HMAC verifier | Next.js, Web Crypto |
-
-## Security tools
-
-| Project | What it is |
-| --- | --- |
-| [proxyscope](https://github.com/dvlinuxx-max/proxyscope) | Intercepting HTTP/HTTPS proxy with a web UI: history, TLS MITM, request inspector, repeater, intercept queue |
-| [vulnscope](https://github.com/dvlinuxx-max/vulnscope) | Web security scanner: crawler plus header/TLS/CORS/exposure/injection checks with scored HTML reports |
-| [tlsaudit](https://github.com/dvlinuxx-max/tlsaudit) | TLS configuration and certificate auditor |
-| [secheaders](https://github.com/dvlinuxx-max/secheaders) | HTTP security-header and TLS grader |
-| [secretscan](https://github.com/dvlinuxx-max/secretscan) | Find hardcoded secrets in a directory tree |
-| [passforge](https://github.com/dvlinuxx-max/passforge) | Password generator and strength auditor (HIBP) |
-| [intguard](https://github.com/dvlinuxx-max/intguard) | SHA-256 file integrity monitor |
-
-## OSINT and recon
-
-| Project | What it is |
-| --- | --- |
-| [certspot](https://github.com/dvlinuxx-max/certspot) | Subdomain enumeration via Certificate Transparency |
-| [dnsprobe](https://github.com/dvlinuxx-max/dnsprobe) | DNS recon over DNS-over-HTTPS + subdomain probing |
-| [domaintel](https://github.com/dvlinuxx-max/domaintel) | Domain registration lookup over RDAP |
-| [ipintel](https://github.com/dvlinuxx-max/ipintel) | IP geolocation, ASN and reverse DNS |
-| [webprint](https://github.com/dvlinuxx-max/webprint) | Website technology fingerprinter |
-| [userfind](https://github.com/dvlinuxx-max/userfind) | Username existence checker across public platforms |
-
-The security and OSINT tools are dependency-free Python CLIs that query public
-data sources or audit targets you are authorized to assess.
-
-## Contact
-
-- Email: dvlinuxx@gmail.com
