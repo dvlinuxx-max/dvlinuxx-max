@@ -1,18 +1,20 @@
-<div align="center">
+<h1 align="center">Mohammed Asghar</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,45:0EA5E9,100:38BDF8&text=Mohammed%20Asghar&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Security%20%26%20OSINT%20tooling%20%C2%B7%20Desktop%20%C2%B7%20Web&descSize=17&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Security+%26+OSINT+tooling;Desktop+%2B+web+%2B+CLI;Arabic-first%2C+dependency-light;I+build+the+things+I+actually+use"/>
-
-<p>
-  <img src="https://img.shields.io/badge/-Security%20%26%20OSINT-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
-  <img src="https://img.shields.io/badge/-Full--stack-38BDF8?style=for-the-badge&labelColor=0F172A"/>
-  <img src="https://img.shields.io/badge/-Arabic--first-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
+<p align="center">
+  Security &amp; OSINT tooling · Desktop · Web · CLI · Arabic-first
 </p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=42&lines=Security+%26+OSINT+tooling;Desktop+%2B+web+%2B+CLI;Arabic-first%2C+dependency-light;I+build+the+things+I+actually+use" alt="typing" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%20%26%20OSINT-0EA5E9?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="security" />
+  <img src="https://img.shields.io/badge/Full--stack-38BDF8?style=for-the-badge&labelColor=0F172A" alt="fullstack" />
+  <img src="https://img.shields.io/badge/Iraq-0F172A?style=for-the-badge&labelColor=0F172A" alt="iraq" />
+</p>
+
+---
 
 Hey, I'm Mohammed, a developer from Iraq.
 
@@ -20,11 +22,9 @@ Most of what I do is security and OSINT tooling, plus the occasional desktop or 
 
 ## Tech I reach for
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,vscode"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,vscode&perline=12" alt="tech stack" />
+</p>
 
 ## Apps I've built
 
@@ -66,10 +66,4 @@ Reported and fixed a scan-evasion bug in DataDog's [guarddog](https://github.com
 
 ## Contact
 
-[dvlinuxx@gmail.com](mailto:dvlinuxx@gmail.com)
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38BDF8,55:0EA5E9,100:0F172A"/>
-
-</div>
+[dvlinuxx@gmail.com](mailto:dvlinuxx@gmail.com) · [github.com/dvlinuxx-max](https://github.com/dvlinuxx-max)
