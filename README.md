@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0EA5E9,100:38BDF8&text=Mohammed%20Asghar&fontSize=46&fontAlignY=42&animation=fadeIn&desc=Security%20%26%20OSINT%20tooling%20%C2%B7%20Desktop%20%C2%B7%20Web&descAlignY=64&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,45:0EA5E9,100:38BDF8&text=Mohammed%20Asghar&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Security%20%26%20OSINT%20tooling%20%C2%B7%20Desktop%20%C2%B7%20Web&descSize=17&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Security+%26+OSINT+tooling;Desktop+%2B+web+%2B+CLI;Arabic-first%2C+dependency-light;I+build+the+things+I+actually+use"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Security+%26+OSINT+tooling;Desktop+%2B+web+%2B+CLI;Arabic-first%2C+dependency-light;I+build+the+things+I+actually+use"/>
+
+<p>
+  <img src="https://img.shields.io/badge/-Security%20%26%20OSINT-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
+  <img src="https://img.shields.io/badge/-Full--stack-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+  <img src="https://img.shields.io/badge/-Arabic--first-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
+</p>
 
 </div>
 
@@ -17,17 +23,6 @@ Most of what I do is security and OSINT tooling, plus the occasional desktop or 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,vscode"/>
-
-</div>
-
-## A bit of GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dvlinuxx-max&show_icons=true&hide=stars&hide_border=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlinuxx-max&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlinuxx-max&theme=tokyo-night&hide_border=true&area=true" width="92%"/>
 
 </div>
 
@@ -75,6 +70,6 @@ Reported and fixed a scan-evasion bug in DataDog's [guarddog](https://github.com
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38BDF8,55:0EA5E9,100:0F172A"/>
 
 </div>
