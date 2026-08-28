@@ -1,69 +1,49 @@
-<h1 align="center">Mohammed Asghar</h1>
+# Mohammed Abd Alrahman
 
-<p align="center">
-  Security &amp; OSINT tooling · Desktop · Web · CLI · Arabic-first
-</p>
+Security researcher and developer from Iraq.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=42&lines=Security+%26+OSINT+tooling;Desktop+%2B+web+%2B+CLI;Arabic-first%2C+dependency-light;I+build+the+things+I+actually+use" alt="typing" />
-</p>
+I look for vulnerabilities in widely deployed WordPress plugins and in open-source
+security tooling, report them through the vendor's own channel, and follow them
+until they're fixed. Between those, I build the tools I needed and couldn't find:
+small, dependency-light, and Arabic-first where it matters.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Security%20%26%20OSINT-0EA5E9?style=for-the-badge&labelColor=0F172A&logoColor=white" alt="security" />
-  <img src="https://img.shields.io/badge/Full--stack-38BDF8?style=for-the-badge&labelColor=0F172A" alt="fullstack" />
-  <img src="https://img.shields.io/badge/Iraq-0F172A?style=for-the-badge&labelColor=0F172A" alt="iraq" />
-</p>
+[mohmadev.com](https://mohmadev.com) · <dvlinuxx@gmail.com>
 
----
+## Security research
 
-Hey, I'm Mohammed, a developer from Iraq.
+Nine issues found and disclosed so far. Write-ups for each one are at
+[mohmadev.com/cves](https://mohmadev.com/cves).
 
-Most of what I do is security and OSINT tooling, plus the occasional desktop or web app for local businesses. I lean towards small, readable code with as few dependencies as I can get away with, and Arabic-first (RTL) interfaces. Almost everything here started because I needed it for something real, or just wanted to understand how a thing worked from the inside.
+| ID | Product | Issue | Severity |
+| --- | --- | --- | --- |
+| CWE-436 | [GuardDog](https://github.com/DataDog/guarddog) (DataDog) | ZIP parser differential — a crafted wheel reads as empty to the scanner but still unpacks on install | High |
+| [CVE-2026-74992](https://nvd.nist.gov/vuln/detail/CVE-2026-74992) | Kirki (Themeum) | Stored XSS through unvalidated files inside an uploaded font archive | 6.8 |
+| [CVE-2026-19615](https://nvd.nist.gov/vuln/detail/CVE-2026-19615) | Admin and Site Enhancements (WPease) | Stored XSS through unsanitised SVG upload | 6.8 |
+| [CVE-2026-19075](https://nvd.nist.gov/vuln/detail/CVE-2026-19075) | All-in-One Video Gallery (PluginsWare) | Server-side request forgery | 5.0 |
+| [CVE-2026-77786](https://nvd.nist.gov/vuln/detail/CVE-2026-77786) | Rank Math SEO | Broken access control (CWE-863) | 4.9 |
+| CWE-295 | AI Engine (Meow Apps) | TLS certificate verification skipped on outbound requests — 100k+ installs | Medium |
+| — | Automatic YouTube Gallery (Plugins360 Labs) | Several issues, including an unauthenticated one | Medium |
+| CWE-778 | [CrowdSec](https://github.com/crowdsecurity/hub) | Exim parser dropped every authentication failure, so brute force produced no events | Low |
 
-## Tech I reach for
+One more is with a vendor under coordinated disclosure and isn't listed yet.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,flutter,sqlite,mysql,linux,git,vscode&perline=12" alt="tech stack" />
-</p>
+## Contributing to
 
-## Apps I've built
+- [DataDog/guarddog](https://github.com/DataDog/guarddog) — malware scanner for PyPI and npm
+- [crowdsecurity/hub](https://github.com/crowdsecurity/hub) — detection scenarios and log parsers
+- [abdulrahman-103/kitab](https://github.com/abdulrahman-103/kitab) — an Arabic word processor written in Qt
 
-| Project | What it does | Stack |
+## Things I've built
+
+| Project | What it does | Built with |
 | --- | --- | --- |
-| [tijarati](https://github.com/dvlinuxx-max/tijarati) | Point-of-sale, inventory and sales management for small shops | Python, SQLite |
-| [wasif](https://github.com/dvlinuxx-max/wasif) | Arabic product-description generator backed by an LLM | Next.js, Claude API |
-| [menyu](https://github.com/dvlinuxx-max/menyu) | QR menu for restaurants and cafes | Next.js, Tailwind |
-| [jwt-lens](https://github.com/dvlinuxx-max/jwt-lens) | In-browser JWT decoder and HMAC verifier | Next.js, Web Crypto |
+| [AFIN](https://github.com/dvlinuxx-max/AFIN) | Offline-first field data collection: form builder, XLSForm import/export, a PWA collector with an offline queue, RBAC, end-to-end encrypted submissions, analytics and maps. Bilingual AR/EN | Next.js, Prisma |
+| [StorageAnalyzer](https://github.com/dvlinuxx-max/StorageAnalyzer) | Finds what is eating your disk on Windows and tells you what is safe to delete — duplicate detection, per-file safety rating, Arabic interface | Python |
+| [proxyscope](https://github.com/dvlinuxx-max/proxyscope) | Intercepting HTTP/HTTPS proxy with a web UI: history, TLS MITM, inspector, repeater, intercept queue | Python |
+| [vulnscope](https://github.com/dvlinuxx-max/vulnscope) | Web scanner — scope-aware crawler plus header, TLS, CORS and injection checks, with scored HTML reports | Python |
+| [apsentry](https://github.com/dvlinuxx-max/apsentry) | Evil Twin and rogue AP detection: a defensive WIDS with a live dashboard and a scored detection engine | Python |
+| [secretscan](https://github.com/dvlinuxx-max/secretscan) | Finds hardcoded cloud keys, tokens and private keys in a directory tree before they ship | Python |
+| [jwt-lens](https://github.com/dvlinuxx-max/jwt-lens) | In-browser JWT inspector — decode header and payload, check claim times, verify HMAC signatures | TypeScript |
 
-## Security tooling
-
-| Project | What it does |
-| --- | --- |
-| [proxyscope](https://github.com/dvlinuxx-max/proxyscope) | Intercepting HTTP/HTTPS proxy with a web UI: history, TLS MITM, request inspector, repeater, intercept queue |
-| [vulnscope](https://github.com/dvlinuxx-max/vulnscope) | Web scanner: crawler plus header/TLS/CORS/exposure/injection checks with scored HTML reports |
-| [tlsaudit](https://github.com/dvlinuxx-max/tlsaudit) | TLS configuration and certificate auditor |
-| [secheaders](https://github.com/dvlinuxx-max/secheaders) | HTTP security-header and TLS grader |
-| [secretscan](https://github.com/dvlinuxx-max/secretscan) | Finds hardcoded secrets in a directory tree |
-| [passforge](https://github.com/dvlinuxx-max/passforge) | Password generator and strength auditor (HIBP) |
-| [intguard](https://github.com/dvlinuxx-max/intguard) | SHA-256 file integrity monitor |
-
-## OSINT & recon
-
-| Project | What it does |
-| --- | --- |
-| [certspot](https://github.com/dvlinuxx-max/certspot) | Subdomain enumeration via Certificate Transparency |
-| [dnsprobe](https://github.com/dvlinuxx-max/dnsprobe) | DNS recon over DNS-over-HTTPS with subdomain probing |
-| [domaintel](https://github.com/dvlinuxx-max/domaintel) | Domain registration lookup over RDAP |
-| [ipintel](https://github.com/dvlinuxx-max/ipintel) | IP geolocation, ASN and reverse DNS |
-| [webprint](https://github.com/dvlinuxx-max/webprint) | Website technology fingerprinter |
-| [userfind](https://github.com/dvlinuxx-max/userfind) | Username checker across public platforms |
-
-The security and OSINT ones are dependency-free Python CLIs. They query public data sources or audit targets you're authorized to assess, nothing more.
-
-## Lately
-
-Reported and fixed a scan-evasion bug in DataDog's [guarddog](https://github.com/DataDog/guarddog) (malware scanner for PyPI/npm) where a crafted ZIP reads as empty but still unpacks code on install.
-
-## Contact
-
-[dvlinuxx@gmail.com](mailto:dvlinuxx@gmail.com) · [github.com/dvlinuxx-max](https://github.com/dvlinuxx-max)
+The Python tools are standard-library only. They query public data sources, or audit
+targets you are authorised to assess. Nothing else.
