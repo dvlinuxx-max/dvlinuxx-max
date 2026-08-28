@@ -20,7 +20,7 @@ Nine issues found and disclosed so far. Write-ups for each one are at
 | [CVE-2026-74992](https://nvd.nist.gov/vuln/detail/CVE-2026-74992) | Kirki (Themeum) | Stored XSS through unvalidated files inside an uploaded font archive | 6.8 |
 | [CVE-2026-19615](https://nvd.nist.gov/vuln/detail/CVE-2026-19615) | Admin and Site Enhancements (WPease) | Stored XSS through unsanitised SVG upload | 6.8 |
 | [CVE-2026-19075](https://nvd.nist.gov/vuln/detail/CVE-2026-19075) | All-in-One Video Gallery (PluginsWare) | Server-side request forgery | 5.0 |
-| [CVE-2026-77786](https://nvd.nist.gov/vuln/detail/CVE-2026-77786) | Rank Math SEO | Broken access control (CWE-863) | 4.9 |
+| CVE-2026-77786 | Rank Math SEO | Broken access control (CWE-863) | 4.9 |
 | CWE-295 | AI Engine (Meow Apps) | TLS certificate verification skipped on outbound requests — 100k+ installs | Medium |
 | — | Automatic YouTube Gallery (Plugins360 Labs) | Several issues, including an unauthenticated one | Medium |
 | CWE-778 | [CrowdSec](https://github.com/crowdsecurity/hub) | Exim parser dropped every authentication failure, so brute force produced no events | Low |
