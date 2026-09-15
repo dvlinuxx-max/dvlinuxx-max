@@ -38,12 +38,4 @@ One more is with a vendor under coordinated disclosure and isn't listed yet.
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [AFIN](https://github.com/dvlinuxx-max/AFIN) | Offline-first field data collection: form builder, XLSForm import/export, a PWA collector with an offline queue, RBAC, end-to-end encrypted submissions, analytics and maps. Bilingual AR/EN | Next.js, Prisma |
-| [StorageAnalyzer](https://github.com/dvlinuxx-max/StorageAnalyzer) | Finds what is eating your disk on Windows and tells you what is safe to delete — duplicate detection, per-file safety rating, Arabic interface | Python |
-| [proxyscope](https://github.com/dvlinuxx-max/proxyscope) | Intercepting HTTP/HTTPS proxy with a web UI: history, TLS MITM, inspector, repeater, intercept queue | Python |
-| [vulnscope](https://github.com/dvlinuxx-max/vulnscope) | Web scanner — scope-aware crawler plus header, TLS, CORS and injection checks, with scored HTML reports | Python |
-| [apsentry](https://github.com/dvlinuxx-max/apsentry) | Evil Twin and rogue AP detection: a defensive WIDS with a live dashboard and a scored detection engine | Python |
-| [secretscan](https://github.com/dvlinuxx-max/secretscan) | Finds hardcoded cloud keys, tokens and private keys in a directory tree before they ship | Python |
-| [jwt-lens](https://github.com/dvlinuxx-max/jwt-lens) | In-browser JWT inspector — decode header and payload, check claim times, verify HMAC signatures | TypeScript |
-
-The Python tools are standard-library only. They query public data sources, or audit
-targets you are authorised to assess. Nothing else.
+| [Cleanix](https://github.com/dvlinuxx-max/Cleanix) | Finds what is eating your disk on Windows and tells you what is safe to delete — duplicate detection, per-file safety rating, temp and recycle-bin cleanup, Arabic interface. On the [Microsoft Store](https://apps.microsoft.com/detail/9NV81Z29GK9R) | Python |
