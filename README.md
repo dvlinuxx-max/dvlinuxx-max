@@ -11,21 +11,27 @@ small, dependency-light, and Arabic-first where it matters.
 
 ## Security research
 
-Nine issues found and disclosed so far. Write-ups for each one are at
+Fifteen issues found and reported so far. Write-ups for each are at
 [mohmadev.com/cves](https://mohmadev.com/cves).
 
-| ID | Product | Issue | Severity |
+| ID | Product | Issue | Sev |
 | --- | --- | --- | --- |
-| CWE-436 | [GuardDog](https://github.com/DataDog/guarddog) | ZIP parser differential — scans clean, installs code | High |
-| [CVE-2026-74992](https://nvd.nist.gov/vuln/detail/CVE-2026-74992) | Kirki | Stored XSS via uploaded font archive | 6.8 |
+| CWE-436 | [GuardDog](https://github.com/DataDog/guarddog) | ZIP parser differential — scans clean, installs code | 7.4 |
+| CVE-2026-19723 | UltimatelySocial | Reflected XSS in share handler | 7.1 |
+| — | Automatic YouTube Gallery | Multiple issues, one unauthenticated | 7.4 |
+| [CVE-2026-74992](https://nvd.nist.gov/vuln/detail/CVE-2026-74992) | Kirki | Stored XSS via font-archive upload | 6.8 |
+| CVE-2026-19719 | UltimatelySocial | Contributor+ stored XSS via post title | 6.8 |
 | [CVE-2026-19615](https://nvd.nist.gov/vuln/detail/CVE-2026-19615) | Admin and Site Enhancements | Stored XSS via SVG upload | 6.8 |
+| CVE-2026-84222 | Kirki | Unauth. post-content disclosure | 5.3 |
 | [CVE-2026-19075](https://nvd.nist.gov/vuln/detail/CVE-2026-19075) | All-in-One Video Gallery | Server-side request forgery | 5.0 |
 | CVE-2026-77786 | Rank Math SEO | Broken access control | 4.9 |
-| CWE-295 | AI Engine (Meow Apps) | TLS verification skipped on outbound requests | Medium |
-| — | Automatic YouTube Gallery | Several issues, one unauthenticated | Medium |
+| CWE-295 | AI Engine (Meow Apps) | TLS verification skipped, 100k+ installs | Med |
+| CVE-2026-84745 | The Events Calendar | Contributor+ content disclosure via REST | 2.7 |
+| CVE-2026-77787 | Rank Math SEO | Author+ metadata overwrite | 2.7 |
+| CVE-2026-77785 | Rank Math SEO | Author+ post disclosure via Abilities API | 2.7 |
 | CWE-778 | [CrowdSec](https://github.com/crowdsecurity/hub) | Exim parser missed every auth failure | Low |
 
-One more is with a vendor under coordinated disclosure and isn't listed yet.
+One more, in Content Egg, is still under coordinated disclosure and isn't detailed yet.
 
 ## Contributing to
 
