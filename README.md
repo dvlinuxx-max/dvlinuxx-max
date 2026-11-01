@@ -16,7 +16,7 @@ Fifteen issues found and reported so far. Write-ups for each are at
 
 | ID | Product | Issue | Sev |
 | --- | --- | --- | --- |
-| CWE-436 | [GuardDog](https://github.com/DataDog/guarddog) | ZIP parser differential, scans clean, installs code | 7.4 |
+| CWE-436 | [GuardDog](https://github.com/DataDog/guarddog) | ZIP parser differential: scans clean, installs code | 7.4 |
 | CVE-2026-19723 | UltimatelySocial | Reflected XSS in share handler | 7.1 |
 | - | Automatic YouTube Gallery | Multiple issues, one unauthenticated | 7.4 |
 | [CVE-2026-74992](https://nvd.nist.gov/vuln/detail/CVE-2026-74992) | Kirki | Stored XSS via font-archive upload | 6.8 |
@@ -35,13 +35,15 @@ One more, in Content Egg, is still under coordinated disclosure and isn't detail
 
 ## Contributing to
 
-- [DataDog/guarddog](https://github.com/DataDog/guarddog), malware scanner for PyPI and npm
-- [crowdsecurity/hub](https://github.com/crowdsecurity/hub), detection scenarios and log parsers
-- [abdulrahman-103/kitab](https://github.com/abdulrahman-103/kitab), an Arabic word processor written in Qt
+- [DataDog/guarddog](https://github.com/DataDog/guarddog: malware scanner for PyPI and npm
+- [crowdsecurity/hub](https://github.com/crowdsecurity/hub: detection scenarios and log parsers
+- [abdulrahman-103/kitab](https://github.com/abdulrahman-103/kitab: an Arabic word processor written in Qt
 
 ## Things I've built
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [AFIN](https://github.com/dvlinuxx-max/AFIN) | Offline-first field data collection: form builder, XLSForm import/export, a PWA collector with an offline queue, RBAC, end-to-end encrypted submissions, analytics and maps. Bilingual AR/EN | Next.js, Prisma |
-| [Cleanix](https://github.com/dvlinuxx-max/Cleanix) | Finds what is eating your disk on Windows and tells you what is safe to delete, duplicate detection, per-file safety rating, temp and recycle-bin cleanup, Arabic interface. On the [Microsoft Store](https://apps.microsoft.com/detail/9NV81Z29GK9R) | Python |
+| [HadaraLab](https://github.com/dvlinuxx-max/HadaraLab) | A free, offline MATLAB-style environment for Control Engineering students: transfer functions, time response, Routh, root locus, Bode, PID tuning. Arabic interface. On the [Microsoft Store](https://apps.microsoft.com/detail/9NBFTFTG5CRK) | Python, PySide6 |
+| [MeowSecurity](https://github.com/dvlinuxx-max/MeowSecurity) | Windows process, memory and network monitor with behavioural intrusion detection. Fully offline, no telemetry. Arabic interface | C#, .NET, WPF |
+| [Cleanix](https://github.com/dvlinuxx-max/Cleanix) | Finds what is eating your disk on Windows and tells you what is safe to delete: duplicate detection, per-file safety rating, temp and recycle-bin cleanup. Arabic interface. On the [Microsoft Store](https://apps.microsoft.com/detail/9NV81Z29GK9R) | Python |
+| [Al-Hadhara Medical Platform](https://github.com/dvlinuxx-max/Al-Hadhara-Medical-Platform) | Arabic web app that reads photos of medical lab reports and explains the results | JavaScript, Netlify |
